@@ -1,0 +1,136 @@
+.big-banner{
+   background-image: url('../img/background.jpg');
+   background-repeat: no-repeat;
+   border-radius: 0px;
+   background-size: cover;
+   background-position: top center;
+   background-attachment: inherit;
+ }
+
+#img.source-image {
+   width: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+ }
+
+.jumbotron  {
+   color: white;
+}
+
+.display-3{
+   /* text-shadow: 2px 1px 1px #555; */
+   font-family: 'Alata';
+   font-size: 100px;
+}
+
+.lead{
+   /* text-shadow: 2px 1px 1px #555; */
+   font-size: 65px;
+   font-family: 'Alata';
+}
+
+.row{
+   margin-top: 60px;
+}
+
+.second{
+   background: none;
+   color: black;
+}
+
+.bottom{
+   text-shadow: none;
+   font-size: 45px;
+   font-family: 'Alata';
+}
+
+.btn-xl{
+   padding: 20px 30px;
+   font-size: 45px;
+   border-radius: 10px;
+   font-family: 'Alata';
+   box-shadow: 5px 5px 1px #555;
+}
+
+.btn-lg{
+   box-shadow: 5px 5px 1px #555;
+}
+
+.form{
+   font-family: 'Alata';
+   font-size: 20px;
+}
+
+.modal-title{
+   font-family: 'Alata';
+   font-size: 20px;
+}
+
+.foot{
+   font-family: 'Alata';
+   font-size: 10px;
+   margin-top: 70px;
+}
+
+.med{
+   width: 10%;
+}
+
+.img{
+   margin-top: 150px;
+}
+
+.alatkesehatan{
+   margin-top: 20px;
+   width: 15%;
+   height: 15%;
+   margin-left: 150px;
+}
+
+.misc{
+   margin-top: 20px;
+   width: 15%;
+   height: 15%;
+   margin-left: 130px;
+}
+
+.last{
+   margin-top: 150px;
+}
+
+.donasi{
+   margin-top: 0px;
+}
+
+.third{
+   height: 245px;
+   background-image: url('../img/backgroundbot.jpg');
+   background-repeat: no-repeat;
+   border-radius: 0px;
+   background-size: cover;
+   background-position: top center;
+   background-attachment: inherit;
+}
+
+.dnt{
+   margin-top: 0px;
+}
+
+.navbar-brand{
+   font-family: 'ABeeZee';
+}
+
+.dropdown-menu{
+   font-family: 'ABeeZee';
+}
+
+.dropdown-item{
+   font-family: 'Alata';
+}
+
+.nav-link{
+   font-family: 'ABeeZee';
+}
+
+.dropdown:hover .dropdown-menu {display:block;}
