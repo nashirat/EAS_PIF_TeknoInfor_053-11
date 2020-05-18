@@ -22,7 +22,8 @@ ___
 
 
 ### Setup
-  * Gunakan database `donate.sql`
+  * Susunan direktori adalah `/htdocs/eas/...`
+  * Gunakan database `donate.sql` yang ada di dalam file `donate.rar`
   * Username dan password database ada di `app/config/config.php`
 
 ### Components
