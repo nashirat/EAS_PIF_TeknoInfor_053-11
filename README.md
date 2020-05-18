@@ -6,7 +6,7 @@
 
 ### Muhammad Sulthon Nashir 05311840000011
 ### Teknologi Informasi
-### ELETICS
+### ELECTICS
 
 ___
 - [Description](#Description)
