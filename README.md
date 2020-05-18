@@ -22,7 +22,7 @@ ___
 
 
 ### Setup
-
+  * Ekstrak `eas.rar` ke `/htdocs/eas/`
   * Gunakan database `donate.sql`
   * Username dan password database ada di `app/config/config.php`
 
